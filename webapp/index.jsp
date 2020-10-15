@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
-  <h2>my second test</h2>
+  <h2>my first test</h2>
 </head>
 <body>
 <%
